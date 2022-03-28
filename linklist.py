@@ -69,6 +69,9 @@ class LinkList:
 
 
 linklist = LinkList()
-
+# linklist.insert(input())
+# linklist.add_head(input())
+# linklist.deleteNode(input())
+# linklist.remove_duplicates()
 linklist.display()
 
